@@ -1,0 +1,16 @@
+[
+    {
+        "name": "啊",
+        "api": "https://api.guosezy.com/api.php/provide/vod/",
+        "note": "需要代理"
+    },
+    {
+        "name": "是",
+        "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "的",
+        "api": "https://api.ukuapi.com/api.php/provide/vod/"
+    }
+
+]

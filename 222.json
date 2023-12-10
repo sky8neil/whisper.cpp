@@ -1,35 +1,50 @@
 [
     {
-        "name": "啊",
-        "api": "https://api.guosezy.com/api.php/provide/vod/",
-        "note": "需要代理"
+        "name": "他",
+        "api": "https://www.inmi.app/api.php/provide/vod/"
     },
     {
-        "name": "是",
-        "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
+        "name": "有",
+        "api": "https://caiji.kekezyapi.com/api.php/provide/vod/"
     },
     {
-        "name": "的",
+        "name": "就",
+        "api": "https://jszy.tv/api.php/provide/vod/"
+    },
+    {
+        "name": "看",
+        "api": "https://api.apibdzy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "了",
+        "api": "https://ckzy.me/api.php/provide/vod/"
+    },
+    {
+        "name": "吗",
+        "api": "https://caiji.kczyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "你",
         "api": "https://api.ukuapi.com/api.php/provide/vod/"
     },
     {
-        "name": "去",
-        "api": "htthttps://lebcj.com/api.php/provide/vod/"
-    },
-    {
-        "name": "我",
-        "api": "https://cj1.apiabzy.com/api.php/provide/vod/"
-    },
-    {
-        "name": "额",
+        "name": "吧",
         "api": "https://www.langyouzy.com/api.php/provide/vod/"
     },
     {
-        "name": "人",
-        "api": "https://api.yinwoapi.com/api.php/provide/vod/"
+        "name": "材",
+        "api": "https://kudouzy.com/api.php/provide/vod/"
     },
     {
-        "name": "人",
-        "api": "https://api.sexnguon.com/api.php/provide/vod/"
+        "name": "想",
+        "api": "https://cj.apiabzy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "在",
+        "api": "http://www.jializyzapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "手速",
+        "api": "http://fhapi9.com/api.php/provide/vod/"
     }
 ]
